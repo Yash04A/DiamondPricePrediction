@@ -3,3 +3,4 @@ numpy
 flask
 seaborn
 scikit-learn
+flask
